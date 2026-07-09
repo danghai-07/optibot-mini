@@ -1,0 +1,14 @@
+.git
+.venv
+venv
+.env
+__pycache__
+*.pyc
+.pytest_cache
+.mypy_cache
+.ruff_cache
+OptiSigns_Take-Home_Test_Updated.md
+docs
+scripts
+.idea
+.vscode
