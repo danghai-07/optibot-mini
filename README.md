@@ -86,12 +86,37 @@ Delta sync: SHA-256 of cleaned Markdown vs `state/manifest.json`. Unchanged hash
 **Job logs (Railway dashboard — login required):**  
 https://railway.com/project/bf81860c-00c0-46a0-afcd-7b670444d20a/service/3f75d3c0-355c-497b-8439-333ce35ab99c
 
-**Deploy log proof (public):** successful cron run — `added: 35`, `skipped: 0`, exit `Done`:
+Public proof is in [Demonstration (screenshots)](#demonstration-screenshots) below.
 
-![Railway deploy logs](docs/screenshot-railway-logs.png)
+## Demonstration (screenshots)
 
-## Screenshots
+Screenshot walkthrough of all home-test requirements (substitute for video submission).
 
-**Chat sanity check** — run `python scripts/test_chat.py` and capture the terminal (question + OptiBot reply with `Article URL:` lines):
+| Step | Requirement | Proof |
+|------|-------------|-------|
+| 1 | Scrape ≥30 Zendesk articles → Markdown | `data/articles/` (400+ `.md` files); frontmatter + `Article URL:` line |
+| 2 | Upload to knowledge base via API + logs | Railway deploy log (first run: `added: 35`) |
+| 3 | Delta sync (`added` / `updated` / `skipped`) | Re-run: `skipped: 35`, `added: 0` |
+| 4 | Chunking | One article = one file; Gemini chunks server-side — see [Chunking strategy](#chunking-strategy) |
+| 5 | Railway daily cron job | Cron `0 2 * * *` UTC; **Last run succeeded** |
+| 6 | OptiBot chat + `Article URL:` citations | `scripts/test_chat.py` output |
+
+**1. Scrape → Markdown** — 400+ articles in `data/articles/`; example file with frontmatter and `article_url`:
+
+![Scraped Markdown articles](docs/scrape.png)
+
+**2. API upload (first run)** — cron completed; JSON summary `added: 35`, `skipped: 0`:
+
+![Railway first deploy logs](docs/screenshot-railway-logs.png)
+
+**3. Delta sync (second run)** — unchanged articles skipped; `skipped: 35`, `added: 0`:
+
+![Railway delta sync skipped](docs/delta-skipped.png)
+
+**4. Railway cron** — schedule `02:00 UTC`, volume mounted, **Last run succeeded**:
+
+![Railway cron schedule](docs/railway-cron.png)
+
+**5. OptiBot chat test** — question *How do I add a YouTube video?* with `Article URL:` citations:
 
 ![OptiBot test chat](docs/screenshot-playground.png)
