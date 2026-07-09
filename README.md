@@ -95,7 +95,3 @@ https://railway.com/project/bf81860c-00c0-46a0-afcd-7b670444d20a/service/3f75d3c
 **Chat sanity check** — run `python scripts/test_chat.py` and capture the terminal (question + OptiBot reply with `Article URL:` lines):
 
 ![OptiBot test chat](docs/screenshot-playground.png)
-
-Run `python scripts/test_chat.py` and capture the terminal output (question + OptiBot reply with `Article URL:` lines).
-
-Save as `docs/screenshot-playground.png` (see [docs/README.md](docs/README.md)).
