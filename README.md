@@ -83,7 +83,7 @@ Delta sync: SHA-256 of cleaned Markdown vs `state/manifest.json`. Unchanged hash
 4. Convert / add a **Cron** schedule (`0 2 * * *` UTC) that runs the service once and exits.
 5. Confirm logs show `added` / `updated` / `skipped`.
 
-**Job logs (fill after deploy):** `https://railway.app/project/<PROJECT>/service/<SERVICE>`
+**Job logs (fill after deploy):** `https://railway.com/project/bf81860c-00c0-46a0-afcd-7b670444d20a/service/3f75d3c0-355c-497b-8439-333ce35ab99c`
 
 ## Screenshot
 
