@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "articles": {
+    "53293393593491": {
+      "hash": "05fc0658972229bbc9418bb8d5fb3f853b6b1809a2eb3486db1602fa77bc8ad1",
+      "slug": "refer-earn-optisigns-referral-program",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
+      "updated_at": "2026-07-08T17:09:50Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/referearnoptisignsreferralp-tr2hy9n1zxsb",
+      "path": "data/articles/refer-earn-optisigns-referral-program.md"
+    },
+    "53216900345875": {
+      "hash": "da662a4198c807289c12c231c0455db3adb272dfef2f30e3936d5e1bc7505096",
+      "slug": "what-access-does-optisigns-have-to-my-account-and-devices",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
+      "updated_at": "2026-07-06T15:29:04Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/whataccessdoesoptisignshave-ck1wxes7tjb4",
+      "path": "data/articles/what-access-does-optisigns-have-to-my-account-and-devices.md"
+    },
+    "53095698149011": {
+      "hash": "abe406b8255af354199c1a3f2f1b3d65833a98b822f848bf637b54dcb672da7c",
+      "slug": "using-the-japan-earthquake-app",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
+      "updated_at": "2026-07-08T18:39:51Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/usingthejapanearthquakeappm-fsa46msmzyfg",
+      "path": "data/articles/using-the-japan-earthquake-app.md"
+    },
+    "53028011485715": {
+      "hash": "a377fcf305fed4d2a93bb74795cdd60172bbd16160ff2796e0caf04f54f6f823",
+      "slug": "how-to-display-a-snowflake-dashboard-with-optisigns",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns",
+      "updated_at": "2026-07-01T21:59:22Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtodisplayasnowflakedashb-ccrt1az2fxdg",
+      "path": "data/articles/how-to-display-a-snowflake-dashboard-with-optisigns.md"
+    },
+    "52523606879251": {
+      "hash": "1548f22514b9a74e5ae420ee77605246371dfcbc987cd298e454c8b1d5dce47a",
+      "slug": "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App",
+      "updated_at": "2026-06-11T22:24:43Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/optisignsdigitalsignageappf-9pzkvffsxcjf",
+      "path": "data/articles/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md"
+    },
+    "52412502456083": {
+      "hash": "f89e74ff3f1b42c6448d5619b6564c3dc4b7fd96c1284635050afb49025aeaa7",
+      "slug": "connect-google-meet-hardware-to-optisigns-digital-signage",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage",
+      "updated_at": "2026-06-15T19:14:07Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/connectgooglemeethardwareto-1fttrli8ch0d",
+      "path": "data/articles/connect-google-meet-hardware-to-optisigns-digital-signage.md"
+    },
+    "52350277262483": {
+      "hash": "4f842a40c8aeb01ba12d3a8a41750ca221f27580896314d16fed444d5fca9395",
+      "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
+      "updated_at": "2026-06-24T18:39:16Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/connectmicrosoftteamsroomst-sajfddiieqkj",
+      "path": "data/articles/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md"
+    },
+    "52113036672403": {
+      "hash": "d69685f46fda3974a74687ec0181c18f7b289e0a3871aeac58a588ee9a15105f",
+      "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
+      "updated_at": "2026-07-08T14:58:11Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/roomintegrationsturnyourmee-001e2vss3rj2",
+      "path": "data/articles/room-integrations-turn-your-meeting-rooms-into-digital-signage.md"
+    },
+    "52069065128723": {
+      "hash": "b500ff352101052bd53334dd69f373279f34b7a3f26829468a29c348bc36e164",
+      "slug": "connect-zoom-rooms-to-optisigns-digital-signage",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
+      "updated_at": "2026-06-11T22:22:00Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/connectzoomroomstooptisigns-2mu6p688ctw2",
+      "path": "data/articles/connect-zoom-rooms-to-optisigns-digital-signage.md"
+    },
+    "51343184586643": {
+      "hash": "4aa764ae9858c6703bfd631439bf8c0bd033eb35c6b467ca099470f3a157cd0f",
+      "slug": "connect-cisco-webex-rooms-to-optisigns-digital-signage",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage",
+      "updated_at": "2026-07-01T16:55:46Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/connectciscowebexroomstoopt-2ip80gpf54py",
+      "path": "data/articles/connect-cisco-webex-rooms-to-optisigns-digital-signage.md"
+    },
+    "49039295567891": {
+      "hash": "ef819dd3a6bcc6735f3311c9560ede1b5e2ca20214dd0306201f7a00f0fdd666",
+      "slug": "chromeos-pwa-instructions",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
+      "updated_at": "2026-05-05T15:48:27Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/chromeospwainstructionsmd-8wjqfaq746jh",
+      "path": "data/articles/chromeos-pwa-instructions.md"
+    },
+    "48751096814995": {
+      "hash": "fa70d50db46627fc97b4a73e996720d0f8e7296108387c4b617cc859abc13c25",
+      "slug": "how-to-use-the-google-ads-dashboard-app",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/48751096814995-How-to-Use-the-Google-Ads-Dashboard-App",
+      "updated_at": "2026-02-02T17:54:16Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtousethegoogleadsdashboa-bw9qd82q2r6j",
+      "path": "data/articles/how-to-use-the-google-ads-dashboard-app.md"
+    },
+    "48656950622227": {
+      "hash": "09efefbc1960c8c7d0d6d2a9a29e5b906b3be25f12e005d6a377a35e92313c5e",
+      "slug": "how-to-use-the-google-search-console-app",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/48656950622227-How-to-Use-the-Google-Search-Console-App",
+      "updated_at": "2026-02-02T17:56:42Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtousethegooglesearchcons-w4h1lvv2eyd9",
+      "path": "data/articles/how-to-use-the-google-search-console-app.md"
+    },
+    "48626115821459": {
+      "hash": "e3b954dfba7f5da7d85917676f2d70c9ab38d906d6e0c3969b85cd1a2add3407",
+      "slug": "how-to-use-the-youtube-dashboard-app",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/48626115821459-How-to-Use-the-YouTube-Dashboard-App",
+      "updated_at": "2026-02-02T15:32:55Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtousetheyoutubedashboard-frq4mn9o46kk",
+      "path": "data/articles/how-to-use-the-youtube-dashboard-app.md"
+    },
+    "48241081473043": {
+      "hash": "d9ce05cce473b051ed5d5aa7ae342aede77d38a018ab7dbf95e7617db729a062",
+      "slug": "operational-schedule-troubleshooting",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting",
+      "updated_at": "2026-04-20T21:26:17Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/operationalscheduletroubles-2jul2nskhxmv",
+      "path": "data/articles/operational-schedule-troubleshooting.md"
+    },
+    "47616485609491": {
+      "hash": "ccaa58ec6517d99e716dada791fe73ffa377d97602f0c2f413f0a59c79bd4f34",
+      "slug": "how-to-use-the-optidev-app",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App",
+      "updated_at": "2026-02-11T23:03:49Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtousetheoptidevappmd-2lzvuz7qyfze",
+      "path": "data/articles/how-to-use-the-optidev-app.md"
+    },
+    "45619214182803": {
+      "hash": "9d5bad4849b4b0f6461fa89d1afb5eaf20ba250e63cca6f0ac43e4eade2b00b7",
+      "slug": "how-to-set-up-an-outlook-calendar-app-with-shared-permissions",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions",
+      "updated_at": "2025-10-17T16:01:18Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtosetupanoutlookcalendar-eyliqzn4ryy7",
+      "path": "data/articles/how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md"
+    },
+    "44890229616403": {
+      "hash": "d291fca8085abee6b398e8ddc217418a55ddc26bf16709dadc9abd859224d30b",
+      "slug": "using-an-enterprise-network-802-1x-with-optisigns",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns",
+      "updated_at": "2026-05-20T18:11:11Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/usinganenterprisenetwork802-e6nctppt228u",
+      "path": "data/articles/using-an-enterprise-network-802-1x-with-optisigns.md"
+    },
+    "43657735780627": {
+      "hash": "e9df0159b274f26f453688ba464d0041c20100055a0ae520029036b4502ddc0f",
+      "slug": "user-management-example-chain-restaurant-or-retail-store-with-multiple-locations",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/43657735780627-User-Management-Example-Chain-Restaurant-or-Retail-Store-with-Multiple-Locations",
+      "updated_at": "2025-08-28T19:28:55Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/usermanagementexamplechainr-cde20exwennz",
+      "path": "data/articles/user-management-example-chain-restaurant-or-retail-store-with-multiple-locations.md"
+    },
+    "42087942047379": {
+      "hash": "94fe7431ef0f8adff9afe8baaa94768612c82c22c281c65371fe0cbc4df5741e",
+      "slug": "getting-started-with-designer",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer",
+      "updated_at": "2025-10-07T17:18:32Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/gettingstartedwithdesignerm-si0jafl0ajkt",
+      "path": "data/articles/getting-started-with-designer.md"
+    },
+    "41432385864595": {
+      "hash": "3bc28e2d199133d84267dd5db8f1400faa9f3022b58d410358e5fadd6d21463e",
+      "slug": "designer-2-0-new-features",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features",
+      "updated_at": "2026-05-12T14:17:09Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/designer20newfeaturesmd-trdhdacz9z44",
+      "path": "data/articles/designer-2-0-new-features.md"
+    },
+    "40736654972563": {
+      "hash": "14f8e7f32727e413099bd6bc6c3c1f3c5e88b27f0304e870fe577fc329089902",
+      "slug": "optisigns-pro-promax-player-troubleshooting-guide",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/40736654972563-OptiSigns-Pro-ProMax-Player-Troubleshooting-Guide",
+      "updated_at": "2026-01-13T21:20:16Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/optisignspropromaxplayertro-dkogktmq7vrl",
+      "path": "data/articles/optisigns-pro-promax-player-troubleshooting-guide.md"
+    },
+    "40671590645651": {
+      "hash": "954f50537bcd57f993436821feed7605c8df38710a0dc4806df1b2fd91682ee1",
+      "slug": "how-to-play-licensed-background-music-on-digital-signs-with-optisound",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
+      "updated_at": "2026-04-08T22:33:37Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtoplaylicensedbackground-gooaky36px1l",
+      "path": "data/articles/how-to-play-licensed-background-music-on-digital-signs-with-optisound.md"
+    },
+    "40212027797523": {
+      "hash": "caeca783d3ce36f9887a1b05bb3d02b8f78feaec242fec91d0042a7cdcec43c3",
+      "slug": "disk-encryption",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption",
+      "updated_at": "2025-09-04T16:19:23Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/diskencryptionmd-ublabjo278fi",
+      "path": "data/articles/disk-encryption.md"
+    },
+    "40147900639891": {
+      "hash": "2be06ecf1e944c635cb8b3212223106225ac7ddc3bbc66bf279b96e5d91cdfa0",
+      "slug": "optistick-troubleshooting-guide",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide",
+      "updated_at": "2026-06-26T13:52:36Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/optisticktroubleshootinggui-319ciaz3mrnp",
+      "path": "data/articles/optistick-troubleshooting-guide.md"
+    },
+    "39488874989587": {
+      "hash": "5c71043130df610eb7ed899e2dfc8730f71914484e9b7477958eb127d564a4de",
+      "slug": "fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick",
+      "updated_at": "2025-09-04T15:25:54Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/fixingunexpectedscreenrotat-mfu42y6xr3rb",
+      "path": "data/articles/fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick.md"
+    },
+    "39250660729747": {
+      "hash": "880ca96df7ae5d6a4e19e2423ae76b32b3b1283b9a44154782ad0e41827f9d15",
+      "slug": "how-to-use-the-tableau-app",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/39250660729747-How-to-Use-the-Tableau-App",
+      "updated_at": "2026-01-06T22:36:49Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtousethetableauappmd-qezaljlkgoo2",
+      "path": "data/articles/how-to-use-the-tableau-app.md"
+    },
+    "39080869746067": {
+      "hash": "af1559325776579930488c5a8953b8dfc4b7fb0864c8941e8cb21386f3dbea46",
+      "slug": "handle-oauth-authentication-using-api-gateway-pre-request-configuration",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
+      "updated_at": "2025-08-28T18:42:06Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/handleoauthauthenticationus-dowhuvl3zhtp",
+      "path": "data/articles/handle-oauth-authentication-using-api-gateway-pre-request-configuration.md"
+    },
+    "38062664690195": {
+      "hash": "98430defe27920f3d0d140f929b346f06627aea81f49d2bd23a92dc547adfe9f",
+      "slug": "tagging-in-optisigns",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns",
+      "updated_at": "2025-09-09T19:34:07Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/tagginginoptisignsmd-qwsm5mktzcal",
+      "path": "data/articles/tagging-in-optisigns.md"
+    },
+    "37966066335891": {
+      "hash": "a237c18edf28bd13381c6b5f7c8e8a4d78a107ce43441248d32e01180e50b145",
+      "slug": "getting-started-with-an-optisigns-free-trial",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
+      "updated_at": "2025-09-04T18:44:24Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/gettingstartedwithanoptisig-f8mr5m9hh7zr",
+      "path": "data/articles/getting-started-with-an-optisigns-free-trial.md"
+    },
+    "36911639377683": {
+      "hash": "aa5520d7afec18bd8574c332cbde53294908627eea7947609bea7a90e2c1c6fe",
+      "slug": "how-to-use-optisigns-with-microsoft-teams-rooms",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
+      "updated_at": "2025-09-04T18:42:32Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtouseoptisignswithmicros-vl7ui6ekbcj8",
+      "path": "data/articles/how-to-use-optisigns-with-microsoft-teams-rooms.md"
+    },
+    "36501302096915": {
+      "hash": "4f88190ef3374b4231d54390d9079ce44490e71b56a0fc8a5b0ea2341f1ba487",
+      "slug": "how-to-access-the-troubleshooting-page-of-the-optisigns-player",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player",
+      "updated_at": "2025-09-02T20:08:24Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtoaccessthetroubleshooti-x8gvaq7avp5v",
+      "path": "data/articles/how-to-access-the-troubleshooting-page-of-the-optisigns-player.md"
+    },
+    "35749502945555": {
+      "hash": "93290f34e48f26126c5965082686575116672f2a15712d7d798488370bd36aa0",
+      "slug": "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments",
+      "updated_at": "2025-08-29T16:58:30Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtousingsepaandidealforeu-0t1qivifam65",
+      "path": "data/articles/how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md"
+    },
+    "35184720136595": {
+      "hash": "aae281ef249f144e49069f0f30965528023a83ff15b4d3b8b9ee00ea5a32bc2c",
+      "slug": "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens",
+      "updated_at": "2025-09-04T16:54:34Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/howtoinstallarootcertificat-k8p6mo1uqgoh",
+      "path": "data/articles/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
+    },
+    "34379983350163": {
+      "hash": "392e823245bc24204178067fda89f56f0f56c4d1c0a396dd32a8b13a871ec417",
+      "slug": "accepted-payment-methods",
+      "article_url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods",
+      "updated_at": "2025-09-04T15:39:32Z",
+      "document_id": "fileSearchStores/optibotmini-iemdzgegeave/documents/acceptedpaymentmethodsmd-nqymjscb2wza",
+      "path": "data/articles/accepted-payment-methods.md"
+    }
+  }
+}
